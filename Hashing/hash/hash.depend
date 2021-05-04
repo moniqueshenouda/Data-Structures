@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525558416 source:c:\users\mounique\desktop\c\hash\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1525608462 source:c:\users\ahmed\downloads\assign3_4928_moniqueehab\hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

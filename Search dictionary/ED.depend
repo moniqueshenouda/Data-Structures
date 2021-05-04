@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527024943 source:c:\users\mounique\desktop\c\esblha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
